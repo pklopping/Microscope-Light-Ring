@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Microscope-Light-Ring-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -31,7 +32,7 @@ P 2850 5850
 F 0 "R4" H 2920 5896 50  0000 L CNN
 F 1 "133" H 2920 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 2780 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 2850 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 2850 5850 50  0001 C CNN
 	1    2850 5850
 	1    0    0    -1  
 $EndComp
@@ -53,7 +54,7 @@ P 4250 5850
 F 0 "R8" H 4320 5896 50  0000 L CNN
 F 1 "133" H 4320 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 4180 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 4250 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 4250 5850 50  0001 C CNN
 	1    4250 5850
 	1    0    0    -1  
 $EndComp
@@ -75,7 +76,7 @@ P 6400 5850
 F 0 "R11" H 6470 5896 50  0000 L CNN
 F 1 "133" H 6470 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 6330 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 6400 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 6400 5850 50  0001 C CNN
 	1    6400 5850
 	1    0    0    -1  
 $EndComp
@@ -97,7 +98,7 @@ P 8100 5850
 F 0 "R16" H 8170 5896 50  0000 L CNN
 F 1 "133" H 8170 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 8030 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 8100 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 8100 5850 50  0001 C CNN
 	1    8100 5850
 	1    0    0    -1  
 $EndComp
@@ -225,7 +226,7 @@ P 7800 5850
 F 0 "R15" H 7870 5896 50  0000 L CNN
 F 1 "133" H 7870 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 7730 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 7800 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 7800 5850 50  0001 C CNN
 	1    7800 5850
 	1    0    0    -1  
 $EndComp
@@ -251,7 +252,7 @@ P 7500 5850
 F 0 "R14" H 7570 5896 50  0000 L CNN
 F 1 "133" H 7570 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 7430 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 7500 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 7500 5850 50  0001 C CNN
 	1    7500 5850
 	1    0    0    -1  
 $EndComp
@@ -277,7 +278,7 @@ P 7200 5850
 F 0 "R13" H 7270 5896 50  0000 L CNN
 F 1 "133" H 7270 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 7130 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 7200 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 7200 5850 50  0001 C CNN
 	1    7200 5850
 	1    0    0    -1  
 $EndComp
@@ -303,7 +304,7 @@ P 6700 5850
 F 0 "R12" H 6770 5896 50  0000 L CNN
 F 1 "133" H 6770 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 6630 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 6700 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 6700 5850 50  0001 C CNN
 	1    6700 5850
 	1    0    0    -1  
 $EndComp
@@ -327,7 +328,7 @@ P 6100 5850
 F 0 "R10" H 6170 5896 50  0000 L CNN
 F 1 "133" H 6170 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 6030 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 6100 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 6100 5850 50  0001 C CNN
 	1    6100 5850
 	1    0    0    -1  
 $EndComp
@@ -351,7 +352,7 @@ P 5800 5850
 F 0 "R9" H 5870 5896 50  0000 L CNN
 F 1 "133" H 5870 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 5730 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 5800 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 5800 5850 50  0001 C CNN
 	1    5800 5850
 	1    0    0    -1  
 $EndComp
@@ -375,7 +376,7 @@ P 3950 5850
 F 0 "R7" H 4020 5896 50  0000 L CNN
 F 1 "133" H 4020 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 3880 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 3950 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 3950 5850 50  0001 C CNN
 	1    3950 5850
 	1    0    0    -1  
 $EndComp
@@ -399,7 +400,7 @@ P 3650 5850
 F 0 "R6" H 3720 5896 50  0000 L CNN
 F 1 "133" H 3720 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 3580 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 3650 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 3650 5850 50  0001 C CNN
 	1    3650 5850
 	1    0    0    -1  
 $EndComp
@@ -423,7 +424,7 @@ P 3350 5850
 F 0 "R5" H 3420 5896 50  0000 L CNN
 F 1 "133" H 3420 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 3280 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 3350 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 3350 5850 50  0001 C CNN
 	1    3350 5850
 	1    0    0    -1  
 $EndComp
@@ -447,7 +448,7 @@ P 2550 5850
 F 0 "R3" H 2620 5896 50  0000 L CNN
 F 1 "133" H 2620 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 2480 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 2550 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 2550 5850 50  0001 C CNN
 	1    2550 5850
 	1    0    0    -1  
 $EndComp
@@ -471,7 +472,7 @@ P 2250 5850
 F 0 "R2" H 2320 5896 50  0000 L CNN
 F 1 "133" H 2320 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 2180 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 2250 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 2250 5850 50  0001 C CNN
 	1    2250 5850
 	1    0    0    -1  
 $EndComp
@@ -495,7 +496,7 @@ P 1950 5850
 F 0 "R1" H 2020 5896 50  0000 L CNN
 F 1 "133" H 2020 5805 50  0000 L CNN
 F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder" V 1880 5850 50  0001 C CNN
-F 3 "https://www.mouser.com/ProductDetail/Lumileds/L130-5790001400001?qs=sGAEpiMZZMu4Prknbu83y262sIz%2FNRuu3T78AUGd1xscWiNt1eq%2FnQ%3D%3D" H 1950 5850 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW1210133RFKEA?qs=sGAEpiMZZMu61qfTUdNhGxpod03iTunH8voq5oJ921E%3D" H 1950 5850 50  0001 C CNN
 	1    1950 5850
 	1    0    0    -1  
 $EndComp
