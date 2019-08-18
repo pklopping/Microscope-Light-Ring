@@ -1,0 +1,8 @@
+(module "A11205RNCQE 12pos sw" (layer F.Cu) (tedit 5D5891DD)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "A11205RNCQE 12pos sw" (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
