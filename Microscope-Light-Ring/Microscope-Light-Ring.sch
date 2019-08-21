@@ -1134,28 +1134,6 @@ F 3 "https://www.mouser.com/ProductDetail/Texas-Instruments/NE555P?qs=sGAEpiMZZM
 	1    5450 1850
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:D_Zener D33
-U 1 1 5D6596AF
-P 4100 1400
-F 0 "D33" V 4050 1200 50  0000 L CNN
-F 1 "D_Zener" V 4150 1000 50  0000 L CNN
-F 2 "" H 4100 1400 50  0001 C CNN
-F 3 "~" H 4100 1400 50  0001 C CNN
-	1    4100 1400
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:D_Zener D34
-U 1 1 5D659794
-P 4500 1400
-F 0 "D34" V 4546 1321 50  0000 R CNN
-F 1 "D_Zener" V 4455 1321 50  0000 R CNN
-F 2 "" H 4500 1400 50  0001 C CNN
-F 3 "~" H 4500 1400 50  0001 C CNN
-	1    4500 1400
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	4100 1250 4100 1200
 Wire Wire Line
@@ -1187,8 +1165,8 @@ U 1 1 5D6B4425
 P 4300 1000
 F 0 "R17" H 4370 1046 50  0000 L CNN
 F 1 "1K" H 4370 955 50  0000 L CNN
-F 2 "" V 4230 1000 50  0001 C CNN
-F 3 "~" H 4300 1000 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 4230 1000 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Vishay/TNPW12061K00BEEA?qs=sGAEpiMZZMtlubZbdhIBIGrOKOMVeCspUw%2Fdmyjwh7g%3D" H 4300 1000 50  0001 C CNN
 	1    4300 1000
 	1    0    0    -1  
 $EndComp
@@ -1250,8 +1228,8 @@ U 1 1 5D71DE48
 P 4300 2250
 F 0 "C1" H 4415 2296 50  0000 L CNN
 F 1 "0.1µF" H 4415 2205 50  0000 L CNN
-F 2 "" H 4338 2100 50  0001 C CNN
-F 3 "~" H 4300 2250 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 4338 2100 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/AVX/12063A101FAT2A?qs=sGAEpiMZZMs0AnBnWHyRQMaLe2bV4MePRz4R8Q2U%252B1U%3D" H 4300 2250 50  0001 C CNN
 	1    4300 2250
 	1    0    0    -1  
 $EndComp
@@ -1286,8 +1264,8 @@ U 1 1 5D76A662
 P 5600 2500
 F 0 "C2" H 5715 2546 50  0000 L CNN
 F 1 "0.1µF" H 5715 2455 50  0000 L CNN
-F 2 "" H 5638 2350 50  0001 C CNN
-F 3 "~" H 5600 2500 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 5638 2350 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/AVX/12063A101FAT2A?qs=sGAEpiMZZMs0AnBnWHyRQMaLe2bV4MePRz4R8Q2U%252B1U%3D" H 5600 2500 50  0001 C CNN
 	1    5600 2500
 	1    0    0    -1  
 $EndComp
@@ -1325,5 +1303,27 @@ F 2 "Package_TO_SOT_SMD:SOT-23" H 7300 1800 50  0001 C CNN
 F 3 "https://www.mouser.com/ProductDetail/Infineon-Technologies/BSS205N-H6327?qs=sGAEpiMZZMshyDBzk1%2FWi5lt%252Bnfr7BbQy36mzbmI44M%3D" H 7300 1800 50  0001 C CNN
 	1    6950 1850
 	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D34
+U 1 1 5D5D8E6E
+P 4500 1400
+F 0 "D34" V 4454 1479 50  0000 L CNN
+F 1 "1N4148" V 4545 1479 50  0000 L CNN
+F 2 "Diode_SMD:D_SOD-123" H 4500 1400 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=sGAEpiMZZMtoHjESLttvkiKikX2YhTL0GOrSkzAUFgM%3D" H 4500 1400 50  0001 C CNN
+	1    4500 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D D33
+U 1 1 5D62BE95
+P 4100 1400
+F 0 "D33" V 4150 1650 50  0000 R CNN
+F 1 "1N4148" V 4050 1800 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 4100 1400 50  0001 C CNN
+F 3 "https://www.mouser.com/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=sGAEpiMZZMtoHjESLttvkiKikX2YhTL0GOrSkzAUFgM%3D" H 4100 1400 50  0001 C CNN
+	1    4100 1400
+	0    -1   -1   0   
 $EndComp
 $EndSCHEMATC
