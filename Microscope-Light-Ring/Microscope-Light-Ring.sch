@@ -124,10 +124,6 @@ F 3 "" H 1050 7450 50  0001 C CNN
 	1    1050 7450
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	1050 7350 1050 7450
-Wire Wire Line
-	850  7350 850  7450
 $Comp
 L power:GND #PWR0103
 U 1 1 5D58648C
@@ -1326,4 +1322,8 @@ F 3 "https://www.mouser.com/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=sGA
 	1    4100 1400
 	0    -1   -1   0   
 $EndComp
+Wire Wire Line
+	850  7350 850  7450
+Wire Wire Line
+	1050 7350 1050 7450
 $EndSCHEMATC
