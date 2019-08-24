@@ -1125,7 +1125,7 @@ U 1 1 5D6595C6
 P 5450 1850
 F 0 "U1" H 5850 1700 50  0000 L CNN
 F 1 "NE555" H 5350 1850 50  0000 L CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 5450 1850 50  0001 C CNN
+F 2 "Package_SO:SO-8_5.3x6.2mm_P1.27mm" H 5450 1850 50  0001 C CNN
 F 3 "https://www.mouser.com/ProductDetail/Texas-Instruments/NE555P?qs=sGAEpiMZZMsFq5dYAzx%252BAIavvo06qkU3AL3wpiATMNo%3D" H 5450 1850 50  0001 C CNN
 	1    5450 1850
 	1    0    0    -1  
